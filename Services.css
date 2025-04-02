@@ -1,0 +1,186 @@
+html{
+   scroll-behavior: smooth;
+}
+body{
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+}
+/* First id */
+#first {
+    margin-top: 100;
+}
+#first .h{
+    content: "";
+    margin-top: 40;
+    background-color: black;
+    width: 55%;
+    height: none;
+    margin-left: 5;
+    margin-right: auto;
+    margin-top: 5;
+    
+}
+#first h1{
+    color: #110081;
+}
+img{
+    box-shadow: 4px 2px 2px rgb(209, 204, 204);
+}
+
+/* second id */
+#serv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40;
+    flex-wrap: nowrap;
+}
+#serv .buo{
+    margin-left: 40;
+}
+#serv .buo{
+   width: 50%;
+}
+#serv .buo mark{
+    border-radius: 4px;
+ }
+#serv .buo h2{
+    color: #110081;
+}
+#serv .buo button{
+    border: 0;
+    outline: none;
+    background-color: #110081;
+    margin-top: 50;
+    padding: 15;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#serv .buo button a{
+    text-decoration: none;
+    color: white;
+    font-size: 17;
+}
+#serv img{
+    width: 500;
+    margin-right: 80;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+#second{
+    margin-top: 200;
+}
+#second .h{
+    content: "";
+    margin-top: 40;
+    background-color: black;
+    width: 55%;
+    height: none;
+    margin-left: 700;
+    margin-right: auto;
+    margin-top: 5;
+    
+}
+#second h1{
+    color: #110081;
+    text-align: right;
+}
+
+/* second id */
+#servv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40;
+}
+#servv .buo{
+   margin-right: 40;
+}
+#servv .buo mark{
+    border-radius: 4px;
+ }
+#servv .buo h2{
+    color: #110081;
+ }
+#servv .buo button{
+    border: 0;
+    outline: none;
+    background-color: #110081;
+    margin-top: 50;
+    padding: 15;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#servv .buo button a{
+    text-decoration: none;
+    color: white;
+    font-size: 17;
+}
+#servv img{
+    width: 550;
+    margin-left: 40;
+    border-radius: 10px;
+}
+
+
+
+#third{
+    margin-top: 200;
+}
+#third .h{
+    content: "";
+    margin-top: 40;
+    background-color: black;
+    width: 55%;
+    height: none;
+    margin-left: 10;
+    margin-right: auto;
+    margin-top: 5;
+    
+}
+#third h1{
+    color: #110081;
+    text-align: left;
+}
+
+/* second id */
+#service{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40;
+}
+#service .buo{
+   margin-left: 40;
+}
+#service .buo mark{
+    border-radius: 4px;
+ }
+#service .buo h2{
+    color: #110081;   
+}
+#service .buo p{
+    width: 80%;   
+}
+#service .buo button{
+    border: 0;
+    outline: none;
+    background-color: #110081;
+    margin-top: 50;
+    padding: 15;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#service .buo button a{
+    text-decoration: none;
+    color: white;
+    font-size: 17;
+}
+#service img{
+    width: 550;
+    margin-right: 40;
+    border-radius: 10px;
+}

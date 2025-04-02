@@ -1,0 +1,29 @@
+body{
+    background-color: lavender;
+}
+.basta{
+    margin-top: 250;
+    margin-left: 800;
+    margin-right: 875;
+    padding: 13 20;
+    border-radius: 10px;
+    background-color: white;
+}
+.basta button{
+    border: none;
+    padding: 8 71;
+    background-color: black;
+    color: white;
+   border-radius: 5px;
+    cursor: pointer;
+  
+}
+.basta input{
+    padding: 5 6;
+}
+.basta button:hover{
+ 
+}
+.basta h2{
+    color: #110081;
+}
